@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "D:\\wenx-s\\envs\\auv-ddqn\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.env.windows": {
+    "MPLBACKEND": "Agg"
+  },
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}

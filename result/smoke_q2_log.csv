@@ -1,0 +1,2 @@
+episode,reward,steps,epsilon,loss,elapsed_s,success
+1,-298.0,500,0.996,0.01739310659468174,2.21319317817688,0
