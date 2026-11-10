@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+*.pt
+*.ckpt
+runs/
+.vscode/
